@@ -4,3 +4,6 @@ print ('Hello World')
 
 # Here is another way of welcoming.
 print ('Assalam-O-Alaikum') 
+
+# Here is another way of saying
+print ('Ahlan Wa Sahlan')
